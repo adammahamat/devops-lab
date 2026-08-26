@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file2 updated by developer1
+=======
+this is file2 modified by dev branch 
+>>>>>>> 569ef5d (update file2)
